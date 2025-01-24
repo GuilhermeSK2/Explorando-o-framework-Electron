@@ -1,0 +1,24 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "Tutorial Electron",
+  "homepage": "https://github.com/GuilhermeSK2/Explorando-o-framework-Electron#readme",
+  "bugs": {
+    "url": "https://github.com/GuilhermeSK2/Explorando-o-framework-Electron/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeSK2/Explorando-o-framework-Electron.git"
+  },
+  "license": "MIT",
+  "author": "Guilherme Freitas dos Santos",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^34.0.1"
+  }
+}
